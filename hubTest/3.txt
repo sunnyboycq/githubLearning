@@ -1,2 +1,1 @@
-this is thi 1st txt
-this is thi 2sd txt
+this is thi 3rd txt
